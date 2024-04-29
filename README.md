@@ -12,14 +12,16 @@ The conveyor belt will stop after counting 3 or 6 boxes, depending on a selector
 
 ## Circuit Modifications
 
-The circuit follows the setup outlined in Project 9 of the Arduino Project Book, with the inclusion of the SR04 Ultrasonic Sensor.
-You can see this in the following top down photo.
+The circuit follows the setup outlined in Project 9 of the Arduino Project Book, with the inclusion of the SR04 Ultrasonic Sensor.  
+You can see this in the following top down photo.  
 
 ![top-view](./images/top-view.jpeg)
 
 ## Code Modifications
 
-Extensive changes were made to the code provided in Project 9 to accommodate the addition of the ultrasonic sensor and address issues with excessive detections. The main changes were:
+Extensive changes were made to the code provided in Project 9 to accommodate the addition of the ultrasonic sensor and address issues with excessive detections.  
+
+The main changes were:  
 
 * Use of the NewPing library to manage ultrasonic sensor readings
 * Implementation of time intervals to reduce the frequency of sensor readings
