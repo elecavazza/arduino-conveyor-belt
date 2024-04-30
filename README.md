@@ -1,3 +1,8 @@
+<img src="https://raw.githubusercontent.com/elecavazza/arduino-conveyor-belt/main/images/logo.png" display="inline-block"
+    margin-left="auto"
+    margin-right="auto"
+    style="width: 60%; display: block; margin: 0 auto;"></img>
+
 # arduino-conveyor-belt
 
 Challenge Lab Project to build a simple conveyor belt system.
